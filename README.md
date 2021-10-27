@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WeepingSleepwalker
 - 👀 I’m interested in crypto and Artificial Intelligence.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on app about Pets
 - 📫 How to reach me ...francis.chung@gmail.com
 
