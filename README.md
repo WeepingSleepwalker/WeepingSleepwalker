@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WeepingSleepwalker
-- 👀 I’m interested in crypto and Websockets.
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on app about Pets
+- 👀 I’m interested in plant life.
+- 🌱 I’m currently learning .NET and C#.
+- 💞️ I’m looking for 0 to 2 years of experience.
 - 📫 How to reach me ...francis.chung@gmail.com
 
 <!---
