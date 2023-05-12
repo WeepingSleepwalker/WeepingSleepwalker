@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WeepingSleepwalker
 - 👀 I’m interested in plant life.
 - 🌱 I’m currently learning .NET and C#.
-- 💞️ I’m looking for 0 to 2 years of experience.
+- 💞️ I’m looking for projects to enhance my skills
 - 📫 How to reach me ...francis.chung@gmail.com
 
 <!---
